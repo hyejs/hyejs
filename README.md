@@ -1,40 +1,24 @@
-# 👋 Hi, I'm Jeonghye – a web developer who loves building with purpose!
+## 👋 Hey there, I'm Jeonghye!
 
-I'm a web developer with 3 years of experience working on Java/Spring/Oracle-based web application.  
-I enjoy creating reliable systems, improving performance, and turning real user needs into practical features.
-
-Currently, I'm exploring **data engineering** and **computer vision (OpenCV)** to deepen my understanding of data-driven development and real-time user interaction.  
-Both fields help me grow as a developer who builds smarter and more meaningful applications.
-
-> “I'm not chasing perfection — I'm building step by step, with purpose and consistency.”
+I'm a web developer with 3 years of experience building and maintaining web applications using Java, Spring, and Oracle. 
+I focus on writing reliable code, improving usability, and solving real-world problems through technology.  
+Currently exploring data engineering and computer vision with Python.
 
 ---
 
-## 🛠 Tech Stack
+### 🛠 Tech Stack
 
-- **Languages**: Java, Python, SQL  
+- **Languages**: Java, SQL  
 - **Frameworks**: Spring  
-- **Database**: Oracle, MySQL  
-- **Data Tools**: OLAP  
+- **Databases**: Oracle, MySQL  
 - **Cloud**: AWS (EC2, S3, RDS)  
-- **Frontend**: HTML, CSS, JavaScript  
-- **Tools**: Git, IntelliJ IDEA, VS Code  
+- **Tools**: Git, IntelliJ IDEA, VSCode  
+- **Frontend**: HTML, CSS, JavaScript
 
 ---
 
-## 🔄 Learning & Building
-
-- Python-based real-time computer vision with OpenCV & MediaPipe  
-- Backend systems with better data processing & ETL logic  
-- Clean, maintainable code and meaningful side projects  
-- GitHub 활동을 통한 꾸준한 성장과 기술 공유
-
----
-
-## 📫 Let's Connect
+### 📫 Contact
 
 - GitHub: [hyejs](https://github.com/hyejs)  
-- LinkedIn: [linkedin.com/in/jeonghye-shin-9a1111355](https://linkedin.com/in/jeonghye-shin-9a1111355)  
+- LinkedIn: [Jeonghye Shin](https://www.linkedin.com/in/jeonghye-shin-9a1111355)  
 - Email: hyejs.dev@gmail.com
-
----
